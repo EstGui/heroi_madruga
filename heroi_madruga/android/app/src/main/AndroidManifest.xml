@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="heroi_madruga"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.meu_cartao">
+   <application
+        android:label="meu_cartao"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

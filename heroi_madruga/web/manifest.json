@@ -1,6 +1,6 @@
 {
-    "name": "heroi_madruga",
-    "short_name": "heroi_madruga",
+    "name": "meu_cartao",
+    "short_name": "meu_cartao",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

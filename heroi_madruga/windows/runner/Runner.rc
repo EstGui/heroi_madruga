@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "heroi_madruga" "\0"
+            VALUE "FileDescription", "meu_cartao" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "heroi_madruga" "\0"
+            VALUE "InternalName", "meu_cartao" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "heroi_madruga.exe" "\0"
-            VALUE "ProductName", "heroi_madruga" "\0"
+            VALUE "OriginalFilename", "meu_cartao.exe" "\0"
+            VALUE "ProductName", "meu_cartao" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

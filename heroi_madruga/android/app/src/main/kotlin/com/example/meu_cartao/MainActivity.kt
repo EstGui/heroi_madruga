@@ -1,4 +1,4 @@
-package com.example.heroi_madruga
+package com.example.meu_cartao
 
 import io.flutter.embedding.android.FlutterActivity
 
